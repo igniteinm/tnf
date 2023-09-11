@@ -1,4 +1,4 @@
 PRODUCT_PACKAGES += \
-   GmsSettingsOverlay \
+   GmsConfigOverlayTurbo \
    GmsConfigOverlay 
    
