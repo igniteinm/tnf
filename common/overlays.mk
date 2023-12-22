@@ -1,3 +1,4 @@
 PRODUCT_PACKAGES += \
-   GmsConfigOverlay 
-   
+   GmsConfigOverlay \
+   PixelFrameworksOverlay \
+   PixelSystemUIOverlay
